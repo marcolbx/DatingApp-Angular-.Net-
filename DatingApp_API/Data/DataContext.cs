@@ -12,5 +12,6 @@ namespace DatingApp.API.Data
 
         //The name inside the < > represents the Entity in the table of the DB
         public DbSet<Value> Values { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
