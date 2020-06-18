@@ -1,6 +1,8 @@
 {
   "extends": "tslint:recommended",
   "rules": {
+    "no-string-literal": false,
+    "array-tpe": false,
     "align": {
       "options": [
         "parameters",
