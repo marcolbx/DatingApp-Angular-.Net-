@@ -118,6 +118,11 @@ C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\
 C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
 C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CoreCompileInputs.cache
 C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marco\Documents\GitHub\DatingApp-Angular-.Net-\DatingApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
