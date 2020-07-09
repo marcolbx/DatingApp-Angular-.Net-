@@ -8,21 +8,20 @@ import { User } from './_models/user';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent implements OnInit {
   jwtHelper = new JwtHelperService();
 
-  constructor(private authService: AuthService){
+  constructor(private authService: AuthService) {}
 
-  }
-  ngOnInit(): void {
+  ngOnInit() {
     const token = localStorage.getItem('token');
-    const user: User = JSON.parse(localStorage.getItem('user')); // localStorage 'user' es almacenado como string
-    if (token){
-        this.authService.decodedToken = this.jwtHelper.decodeToken(token);
-      }
+    const user: User = JSON.parse(localStorage.getItem('user'));
+    if (token) {
+      this.authService.decodedToken = this.jwtHelper.decodeToken(token);
+    }
     if (user) {
-        this.authService.currentUser = user;
-        this.authService.changeMemberPhoto(user.photoUrl);
-      }
+      this.authService.currentUser = user;
+      this.authService.changeMemberPhoto(user.photoUrl);
+    }
   }
 }

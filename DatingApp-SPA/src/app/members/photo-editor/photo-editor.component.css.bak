@@ -1,6 +1,6 @@
-img.img-thumbnail {
+img.img-thumbnail{
     height: 100px;
-    min-width: 100px !important;
+    min-width: 100px;
     margin-bottom: 2px;
 }
 
@@ -22,5 +22,5 @@ input[type=file] {
 
 .img-text {
     position: absolute;
-    bottom: 30%
+    bottom: 30%;
 }
